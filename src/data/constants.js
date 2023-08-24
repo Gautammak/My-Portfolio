@@ -311,43 +311,20 @@ export const Bio = {
       image:
         "https://user-images.githubusercontent.com/97535264/262884000-a8329187-8b59-4524-867f-d604b099d573.jpg",
       tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux","Firebase"],
-      category: "React app",
+      category: "Mern App",
       github: "https://github.com/Gautammak/Crown-Clothing-App",
       webapp: "https://crown-git-main-gautammak.vercel.app/",
-      // member: [
-      //   {
-      //     name: "Rishav Chanda",
-      //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-      //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-      //     github: "https://github.com/rishavchanda/",
-      //   },
-      //   {
-      //     name: "Upasana Chaudhuri",
-      //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-      //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-      //     github: "https://github.com/upasana0710",
-      //   },
-      // ],
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
     },
-    {
-      id: 9,
-      title: "Chat-App",
-      date: "Jun 2022 - Jul 2022",
-      description:
-        "Connect instantly with friends using our seamless chat app. Share messages, photos, and emotions in real time, keeping your conversations alive and personal, no matter the distance",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262886945-0bdaf630-9949-4de2-95f9-860cec3781ed.jpg",
-      tags: [
-      
-        "Node js",
-        "Express js",
-        "Socket.io"
-      ],
-      category: "Node App",
-      github: "https://github.com/Gautammak/chat_app",
-      webapp: "https://chat-app-gautammak.onrender.com/",
-    },
-
+   
     {
       id: 1,
       title: "Temperature With Weather-App",
@@ -361,10 +338,20 @@ export const Bio = {
         "CSS",
        
       ],
-      category: "React app",
+      category: "React App",
       github: "https://github.com/Gautammak/Temperature-With-Weather-App",
-      webapp: "https://github.com/Gautammak/Temperature-With-Weather-App",
+      webapp: "https://temperature-with-weather-app.vercel.app/",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
     },
+    
     {
       id: 2,
       title: "Restaurants App",
@@ -376,21 +363,16 @@ export const Bio = {
       tags: [ "React","CSS"],
       category: "React App",
       github: "https://github.com/Gautammak/Restaurant-Food-App",
-      webapp: "https://github.com/Gautammak/Restaurant-Food-App",
-      // member: [
-      //   {
-      //     name: "Rishav Chanda",
-      //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-      //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-      //     github: "https://github.com/rishavchanda/",
-      //   },
-    //     {
-    //       name: "Upasana Chaudhuri",
-    //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-    //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-    //       github: "https://github.com/upasana0710",
-    //     },
-    //   ],
+      webapp: "https://restaurant-food-app-beta.vercel.app/",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
      },
     {
       id: 3,
@@ -401,23 +383,20 @@ export const Bio = {
       image:
         "https://user-images.githubusercontent.com/97535264/262895806-0ed54e3d-2650-486d-a73f-afcac0bf6eba.jpg",
       tags: [ "React Js" ,"CSS"],
-      category: "React app",
+      category: "React App",
       github: "https://github.com/Gautammak/Weather-Api",
-      webapp: "https://github.com/Gautammak/Weather-Api",
+      webapp: "https://weather-api-umber.vercel.app/",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
     },
-    {
-      id: 10,
-      title: "Number Counter App",
-      date: "Jun 2022 - Jul 2022",
-      description:
-        "The Number Counter React App is a simple yet interactive web application built using the React framework. This app provides users with an intuitive interface to track and increment numbers, making it ideal for various applications such as counting occurrences, keeping score, or just for fun.",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262909339-4cc9d493-f6cf-4d8b-bad8-a239b33aa555.jpg",
-      tags: ["React js", "JavaScript" , "CSS"],
-      category: "React app",
-      github: "https://github.com/Gautammak/React-Counter-App",
-      webapp: "https://github.com/Gautammak/React-Counter-App",
-    },
+   
     {
       id: 4,
       title: "To-Do App",
@@ -427,9 +406,18 @@ export const Bio = {
       image:
         "https://user-images.githubusercontent.com/97535264/262911368-56ae21e2-1867-4a6a-ba09-94cb864580fd.jpg",
       tags: ["React Js", "CSS"],
-      category: "React app",
+      category: "React App",
       github: "https://github.com/Gautammak/Notes-App",
-      webapp: "https://github.com/Gautammak/Notes-App",
+      webapp: "https://to-do-app-xi-six.vercel.app/",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
     },
     {
       id: 5,
@@ -440,9 +428,18 @@ export const Bio = {
       image:
         "https://user-images.githubusercontent.com/97535264/262915574-869f5a3e-46dd-46c4-989f-51af03e3f076.jpg",
       tags: ["React Js", "Redux"],
-      category: "React app",
+      category: "React App",
       github: "https://github.com/Gautammak/Add-to-Cart-Mobile-APP",
-      webapp: "https://github.com/Gautammak/Add-to-Cart-Mobile-APP",
+      webapp: "https://add-to-cart-mobile-app-two.vercel.app/",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
     },
     {
       id: 6,
@@ -453,9 +450,18 @@ export const Bio = {
       image:
         "https://user-images.githubusercontent.com/97535264/262914163-b6b386ce-c7cf-48c5-b612-d351c579cb34.jpg",
       tags: ["React Js", "API", "Axios",],
-      category: " React app",
+      category: " React App",
       github: "https://github.com/Gautammak/React-Fetch-Api",
-      webapp: "https://github.com/Gautammak/React-Fetch-Api",
+      webapp: "https://react-fetch-api-eight.vercel.app/",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
     },
     {
       id: 7,
@@ -469,6 +475,15 @@ export const Bio = {
       category: "Node App",
       github: "https://github.com/Gautammak/Employee-management-crud-app",
       webapp: "https://github.com/Gautammak/Employee-management-crud-app",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
 
     },
     {
@@ -482,7 +497,67 @@ export const Bio = {
       tags: ["Node js", "Express Js", "MongoDb"],
       category: "Node App",
       github: "https://github.com/Gautammak/User-Management-Crud-App",
-      webapp: "https://github.com/Gautammak/User-Management-Crud-App",
+      webapp: "https://user-management-app-tqqx.onrender.com/",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
+    },
+    {
+      id: 9,
+      title: "Chat-App",
+      date: "Jun 2022 - Jul 2022",
+      description:
+        "Connect instantly with friends using our seamless chat app. Share messages, photos, and emotions in real time, keeping your conversations alive and personal, no matter the distance",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262886945-0bdaf630-9949-4de2-95f9-860cec3781ed.jpg",
+      tags: [
+        "HTML",
+        "CSS",
+        "Node js",
+        "Express js",
+        "Socket.io"
+      ],
+      category: "Node App",
+      github: "https://github.com/Gautammak/chat_app",
+      webapp: "https://chat-app-gautammak.onrender.com/",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
+    },
+
+    {
+      id: 10,
+      title: "Number Counter App",
+      date: "Jun 2022 - Jul 2022",
+      description:
+        "The Number Counter React App is a simple yet interactive web application built using the React framework. This app provides users with an intuitive interface to track and increment numbers, making it ideal for various applications such as counting occurrences, keeping score, or just for fun.",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262909339-4cc9d493-f6cf-4d8b-bad8-a239b33aa555.jpg",
+      tags: ["React js", "JavaScript" , "CSS"],
+      category: "React App",
+      github: "https://github.com/Gautammak/React-Counter-App",
+      webapp: "https://react-counter-app-eta.vercel.app/",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
     },
     {
       id: 11,
@@ -496,6 +571,15 @@ export const Bio = {
       category: "Node App",
       github: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
       webapp: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
     },
     
     {
@@ -509,7 +593,16 @@ export const Bio = {
       tags: ["Node js", "Express Js", "MongoDb"],
       category: "Node App",
       github: "https://github.com/Gautammak/login-system",
-      webapp: "https://github.com/Gautammak/login-system",
+      webapp: "https://login-system-j0gt.onrender.com/",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
     },
     {
       id: 13,
@@ -523,7 +616,84 @@ export const Bio = {
       category: "Mern App",
       github: "https://github.com/Gautammak/Product-Management-App",
       webapp: "https://github.com/Gautammak/Product-Management-App",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
     },
+
+     {
+      id: 14,
+      title: "Monsters-Rolodex",
+      date: "Jan 2023",
+      description:
+        "A dynamic React app that showcases a collection of whimsical monsters. Easily scroll through various monsters, each with unique names and traits. Engaging UI and search functionality make exploring this rolodex a delightful experience for all ages.   ",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262967514-74d9e172-a940-4a9a-ae1f-27031dfa8866.jpg",
+      tags: [  "React" , "CSS"],
+      category: "React App",
+      github: "https://github.com/Gautammak/monsters",
+      webapp: "https://github.com/Gautammak/monsters",
+      // member: [
+      //   {
+      //     name: "Gautam Makavana",
+      //     img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+      //     linkedin: "https://github.com/Gautammak/monsters",
+      //     github:   "https://github.com/Gautammak/monsters",
+      //   }
+     
+      //  ],
+    },
+    {
+      id: 15,
+      title: "Bootstrap-Portfolio",
+      date: "Jan 2023",
+      description:
+        " A sleek and responsive portfolio website crafted using Bootstrap framework. Showcase your projects elegantly with organized grids and smooth navigation. This user-friendly design ensures your work takes center stage, offering a polished presentation to captivate visitors. ",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262970793-0e37e047-5704-475b-bae6-13c389a129be.jpg",
+      tags: [  "HTML" , "CSS" ,"BootStrap"],
+      category: "-",
+      github: "https://github.com/Gautammak/bootstrap-portfolio",
+      webapp: "https://github.com/Gautammak/bootstrap-portfolio",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
+    },
+    {
+      id: 16,
+      title: "Food-Bill-App",
+      date: "Jan 2023",
+      description:
+        "FoodBill: Your convenient food expense tracker. Easily log and categorize expenses, set budgets, and monitor spending patterns. Stay on top of your food finances effortlessly with insightful graphs and reports. Simplify your budgeting experience with FoodBill and take control of your food expenses today  ",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262981767-33ceefe8-298d-4c4b-a6fb-32c7e8a26f39.jpg",
+      tags: [  "HTML" , "CSS" ,"Javascript"],
+      category: "-",
+      github: "https://github.com/Gautammak/Food-Bill-App",
+      webapp: "https://github.com/Gautammak/Food-Bill-App",
+      member: [
+        // {
+        //   name: "Gautam Makavana",
+        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
+        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
+        //   github: "https://github.com/Gautammak",
+        // }
+     
+       ],
+    },
+    
     
   ];
   
