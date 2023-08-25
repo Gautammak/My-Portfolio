@@ -224,50 +224,11 @@ export const Bio = {
       // skills: [
        
       // ],
-    },
-    // {
-    //   id: 2,
-    //   img: "https://media.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_200_200/0/1555704980721?e=1692835200&v=beta&t=FjOWcUVVNzqFbTmmp0iXQkv5keBQC5lxIQ7K6rmMSMQ",
-    //   role: "Open Source Contributor ",
-    //   company: "GirlScript Summer of Code",
-    //   date: "May 2023 - Present",
-    //   desc: "Contributing to different open-source projects and learn from industry experts",
-    //   doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
-    // },
-    // {
-    //   id: 3,
-    //   img: "https://media.licdn.com/dms/image/D4D0BAQGfGQHEJt8gPA/company-logo_100_100/0/1666002815185?e=1692230400&v=beta&t=c4obZda4Uh9q6vOcmCbxjoSiExvbvYwEHUlgdY0tU-4",
-    //   role: "Android Developer",
-    //   company: "DSC KIIT",
-    //   date: "Nov2021 - Present",
-    //   desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
-    //   skills: [
-    //     "Leadership",
-    //     "Mobile Application Development",
-    //     "Kotlin",
-    //     "XML",
-    //     "Figma",
-    //   ],
-    // },
-    // {
-    //   id: 4,
-    //   img: "https://media.licdn.com/dms/image/C4D0BAQH4od9HG2K7bw/company-logo_100_100/0/1661484397513?e=1692230400&v=beta&t=IW-eebE0PpFxqZ8Q3UCYYtlAokbhAEqsNePBv2Pmg18",
-    //   role: "Android Developer Intern",
-    //   company: "Rudraksha Welffare Foundation",
-    //   date: "June 2021 - Oct 2021",
-    //   desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
-    //   skills: [
-    //     "Android",
-    //     "Java",
-    //     "Kotlin",
-    //     "XML",
-    //     "Node Js",
-    //     "Cloud Firestore",
-    //     "Firebase",
-    //     "Figma",
-    //   ],
+      
     //   doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
-    // },
+  
+    },
+    
   ];
   
   export const education = [
@@ -310,7 +271,7 @@ export const Bio = {
         "Step into a world of online fashion excellence with Crown Clothing, your destination for the latest trends; explore a wide range of styles for all ages and redefine your wardrobe with a seamless shopping experience that combines choice, quality, and convenience.",
       image:
         "https://user-images.githubusercontent.com/97535264/262884000-a8329187-8b59-4524-867f-d604b099d573.jpg",
-      tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux","Firebase"],
+      tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux",   "SCSS ","Firebase","Material Ui"],
       category: "Mern App",
       github: "https://github.com/Gautammak/Crown-Clothing-App",
       webapp: "https://crown-git-main-gautammak.vercel.app/",
@@ -325,191 +286,9 @@ export const Bio = {
        ],
     },
    
-    {
-      id: 1,
-      title: "Temperature With Weather-App",
-      date: "Jun 2022 - July 2022",
-      description:
-        "Stay prepared with our weather app. Get accurate temperature readings and real-time rain updates. Plan your day with humidity insights for a comfortable experience, whether you're indoors or out.",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262892348-6702230e-fa56-4b58-a449-3b7d0e29d765.jpg",
-      tags: [
-        "React Js",
-        "CSS",
-       
-      ],
-      category: "React App",
-      github: "https://github.com/Gautammak/Temperature-With-Weather-App",
-      webapp: "https://temperature-with-weather-app.vercel.app/",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
-    },
-    
-    {
-      id: 2,
-      title: "Restaurants App",
-      date: "Jun 2022 - July 2022",
-      description:
-        "Revolutionize dining with our ReactJS Restaurants app. Seamlessly browse, reserve, and explore culinary delights. Intuitive UI, real-time updates, and personalized recommendations make your dining experience extraordinary",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262894095-f638c05b-9ae8-42fb-a722-34ec9885555f.jpg",
-      tags: [ "React","CSS"],
-      category: "React App",
-      github: "https://github.com/Gautammak/Restaurant-Food-App",
-      webapp: "https://restaurant-food-app-beta.vercel.app/",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
-     },
-    {
-      id: 3,
-      title: "Weather App",
-      date: "Jun 2022 - July 2022",
-      description:
-        "Get real-time weather updates on our concise ReactJS Weather App. Accurate forecasts, interactive maps, and hourly predictions at your fingertips. Streamlined design for quick access to essential meteorological information",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262895806-0ed54e3d-2650-486d-a73f-afcac0bf6eba.jpg",
-      tags: [ "React Js" ,"CSS"],
-      category: "React App",
-      github: "https://github.com/Gautammak/Weather-Api",
-      webapp: "https://weather-api-umber.vercel.app/",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
-    },
    
     {
-      id: 4,
-      title: "To-Do App",
-      date: "Jul 2022",
-      description:
-        "Streamline organization with the to-do App. Jot down thoughts quickly, create to-do lists, and set reminders effortlessly. User-friendly interface and seamless synchronization across devices make it a must-have for staying productive on the go",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262911368-56ae21e2-1867-4a6a-ba09-94cb864580fd.jpg",
-      tags: ["React Js", "CSS"],
-      category: "React App",
-      github: "https://github.com/Gautammak/Notes-App",
-      webapp: "https://to-do-app-xi-six.vercel.app/",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
-    },
-    {
-      id: 5,
-      title: "Add To Card App",
-      date: "Jun 2022",
-      description:
-        "Elevate shopping with our Add to Cart App. Browse products seamlessly, add to cart with a tap, and enjoy secure checkout. Organize items, track orders, and explore hassle-free shopping with intuitive controls, making your online experience delightful and efficient.",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262915574-869f5a3e-46dd-46c4-989f-51af03e3f076.jpg",
-      tags: ["React Js", "Redux"],
-      category: "React App",
-      github: "https://github.com/Gautammak/Add-to-Cart-Mobile-APP",
-      webapp: "https://add-to-cart-mobile-app-two.vercel.app/",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
-    },
-    {
-      id: 6,
-      title: "React Fetch Api",
-      date: "Jun 2021",
-      description:
-        "Craft dynamic interfaces with React Fetch API App. Fetch data from APIs effortlessly, display in real-time. Utilize state management for seamless updates. Empower your web apps with live, responsive content, blending React's power with real-world data connectivity.",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262914163-b6b386ce-c7cf-48c5-b612-d351c579cb34.jpg",
-      tags: ["React Js", "API", "Axios",],
-      category: " React App",
-      github: "https://github.com/Gautammak/React-Fetch-Api",
-      webapp: "https://react-fetch-api-eight.vercel.app/",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
-    },
-    {
-      id: 7,
-      title: "Employee Management App",
-      date: "Dec 2023 - Jan 2023",
-      description:
-        "Efficiently oversee teams with our Employee Management App. From onboarding to performance tracking, streamline HR tasks. Intuitive interface for managing employee profiles, leave, and performance evaluations. Elevate workforce management, enhancing productivity and engagement while simplifying administrative processes.",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262925221-407b3abf-058a-4c86-98db-46b76bb9eee6.jpg",
-      tags: ["Node js", "Express Js", "MongoDb"],
-      category: "Node App",
-      github: "https://github.com/Gautammak/Employee-management-crud-app",
-      webapp: "https://github.com/Gautammak/Employee-management-crud-app",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
-
-    },
-    {
-      id: 8,
-      title: "User Management App",
-      date: "Jan 2023",
-      description:
-        "Simplify control with Node.js User Management App. Effortlessly manage users, handle authentication, and control access. Streamline user roles, permissions, and data security. Seamlessly integrate robust user management into your applications, enhancing user experience while ensuring data integrity.",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262924989-ca39b854-eef4-4f7e-94b0-a9d82528f55d.jpg",
-      tags: ["Node js", "Express Js", "MongoDb"],
-      category: "Node App",
-      github: "https://github.com/Gautammak/User-Management-Crud-App",
-      webapp: "https://user-management-app-tqqx.onrender.com/",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
-    },
-    {
-      id: 9,
+      id: 1,
       title: "Chat-App",
       date: "Jun 2022 - Jul 2022",
       description:
@@ -526,19 +305,74 @@ export const Bio = {
       category: "Node App",
       github: "https://github.com/Gautammak/chat_app",
       webapp: "https://chat-app-gautammak.onrender.com/",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
      
-       ],
+    },
+    {
+      id: 2,
+      title: "Login System App",
+      date: "Jun 2022 - July 2022",
+      description:
+        "Secure user interactions with our Login System. Implement robust authentication, ensuring data privacy. Streamline user access, registration, and password recovery. Elevate user trust through encrypted sessions, delivering a seamless and secure experience across your application",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262927656-c9017564-1035-4d6b-8995-7bbcdd52d253.jpg",
+      tags: [  "HTML", "CSS" ,"Node js", "Express Js",],
+      category: "Node App",
+      github: "https://github.com/Gautammak/login-system",
+      webapp: "https://login-system-j0gt.onrender.com/",
+    
+    },
+    {
+      id: 3,
+      title: "Temperature With Weather-App",
+      date: "Jun 2022 - July 2022",
+      description:
+        "Stay prepared with our weather app. Get accurate temperature readings and real-time rain updates. Plan your day with humidity insights for a comfortable experience, whether you're indoors or out.",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262892348-6702230e-fa56-4b58-a449-3b7d0e29d765.jpg",
+      tags: [
+        "React Js",
+        "CSS",
+        "Api"
+       
+      ],
+      category: "React App",
+      github: "https://github.com/Gautammak/Temperature-With-Weather-App",
+      webapp: "https://temperature-with-weather-app.vercel.app/",
+    
+     
     },
 
     {
-      id: 10,
+      id: 4,
+      title: "To-Do App",
+      date: "Jul 2022",
+      description:
+        "Streamline organization with the to-do App. Jot down thoughts quickly, create to-do lists, and set reminders effortlessly. User-friendly interface and seamless synchronization across devices make it a must-have for staying productive on the go",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262911368-56ae21e2-1867-4a6a-ba09-94cb864580fd.jpg",
+      tags: ["React Js", "CSS"],
+      category: "React App",
+      github: "https://github.com/Gautammak/Notes-App",
+      webapp: "https://to-do-app-xi-six.vercel.app/",
+    
+    },
+    {
+      id: 5,
+      title: "Restaurants App",
+      date: "Jun 2022 - July 2022",
+      description:
+        "Revolutionize dining with our ReactJS Restaurants app. Seamlessly browse, reserve, and explore culinary delights. Intuitive UI, real-time updates, and personalized recommendations make your dining experience extraordinary",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262894095-f638c05b-9ae8-42fb-a722-34ec9885555f.jpg",
+      tags: [ "React","CSS"],
+      category: "React App",
+      github: "https://github.com/Gautammak/Restaurant-Food-App",
+      webapp: "https://restaurant-food-app-beta.vercel.app/",
+     
+     },
+   
+    {
+      id: 6,
       title: "Number Counter App",
       date: "Jun 2022 - Jul 2022",
       description:
@@ -549,88 +383,57 @@ export const Bio = {
       category: "React App",
       github: "https://github.com/Gautammak/React-Counter-App",
       webapp: "https://react-counter-app-eta.vercel.app/",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
+    
     },
     {
-      id: 11,
-      title: "Fetch Api",
-      date: "Jan 2023",
+      id: 7,
+      title: "Employee Management App",
+      date: " Dec 2022 - Jan 2023",
       description:
-        "Create dynamic data-driven apps with Node.js Fetch API App. Seamlessly fetch and integrate data from APIs using 'axios' or 'node-fetch' libraries. Empower your application with real-time data updates, enhancing user experiences through responsive content. Elevate your Node.js projects with efficient API connectivity",
+        "Efficiently oversee teams with our Employee Management App. From onboarding to performance tracking, streamline HR tasks. Intuitive interface for managing employee profiles, leave, and performance evaluations. Elevate workforce management, enhancing productivity and engagement while simplifying administrative processes.",
       image:
-        "https://user-images.githubusercontent.com/97535264/262925530-1e137968-e483-41a0-8fec-8e9136c0069c.jpg",
-      tags: ["Node js", "Express Js", "MongoDb"],
+        "https://user-images.githubusercontent.com/97535264/262925221-407b3abf-058a-4c86-98db-46b76bb9eee6.jpg",
+      tags: [  "CSS","Node js", "Express Js", "MongoDb" ],
       category: "Node App",
-      github: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
-      webapp: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
+      github: "https://github.com/Gautammak/Employee-management-crud-app",
+      webapp: "https://github.com/Gautammak/Employee-management-crud-app",
+    
+
+    },
+    {
+      id: 8,
+      title: "User Management App",
+      date: "Jan 2023 - Feb 2023",
+      description:
+        "Simplify control with Node.js User Management App. Effortlessly manage users, handle authentication, and control access. Streamline user roles, permissions, and data security. Seamlessly integrate robust user management into your applications, enhancing user experience while ensuring data integrity.",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262924989-ca39b854-eef4-4f7e-94b0-a9d82528f55d.jpg",
+      tags: ["Node js", "Express Js", "MongoDb" ,"ejs"],
+      category: "Node App",
+      github: "https://github.com/Gautammak/User-Management-Crud-App",
+      webapp: "https://user-management-app-tqqx.onrender.com/",
+   
     },
     
     {
-      id: 12,
-      title: "Login System App",
-      date: "Jan 2023",
-      description:
-        "Secure user interactions with our Login System. Implement robust authentication, ensuring data privacy. Streamline user access, registration, and password recovery. Elevate user trust through encrypted sessions, delivering a seamless and secure experience across your application",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262927656-c9017564-1035-4d6b-8995-7bbcdd52d253.jpg",
-      tags: ["Node js", "Express Js", "MongoDb"],
-      category: "Node App",
-      github: "https://github.com/Gautammak/login-system",
-      webapp: "https://login-system-j0gt.onrender.com/",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
-    },
-    {
-      id: 13,
+      id: 9,
       title: "E-commerce Dashboard",
-      date: "Jan 2023",
+      date: "Feb 2023 - March 2023 ",
       description:
         "Experience seamless shopping with our MERN E-commerce Web App. Combining MongoDB, Express, React, and Node.js, it offers dynamic product browsing, secure payments, and user profiles. Elevate your online shopping journey with a responsive, feature-rich application that merges technology and retail.   ",
       image:
         "https://user-images.githubusercontent.com/97535264/262930952-7e17c14e-c9ff-4209-aa9f-f45a75299b27.jpg",
-      tags: [  "React" , "Node js", "Express Js", "MongoDb"],
+      tags: [  "React" ,"CSS" ,"Node js", "Express Js", "MongoDb" ,],
       category: "Mern App",
       github: "https://github.com/Gautammak/Product-Management-App",
       webapp: "https://github.com/Gautammak/Product-Management-App",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
+    
     },
 
      {
-      id: 14,
+      id: 10,
       title: "Monsters-Rolodex",
-      date: "Jan 2023",
+      date: "March 2023",
       description:
         "A dynamic React app that showcases a collection of whimsical monsters. Easily scroll through various monsters, each with unique names and traits. Engaging UI and search functionality make exploring this rolodex a delightful experience for all ages.   ",
       image:
@@ -639,20 +442,74 @@ export const Bio = {
       category: "React App",
       github: "https://github.com/Gautammak/monsters",
       webapp: "https://github.com/Gautammak/monsters",
-      // member: [
-      //   {
-      //     name: "Gautam Makavana",
-      //     img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-      //     linkedin: "https://github.com/Gautammak/monsters",
-      //     github:   "https://github.com/Gautammak/monsters",
-      //   }
+      
+    },
      
-      //  ],
+   
+    {
+      id: 11,
+      title: "Weather App",
+      date: "Jun 2022 - July 2022",
+      description:
+        "Get real-time weather updates on our concise ReactJS Weather App. Accurate forecasts, interactive maps, and hourly predictions at your fingertips. Streamlined design for quick access to essential meteorological information",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262895806-0ed54e3d-2650-486d-a73f-afcac0bf6eba.jpg",
+      tags: [ "React Js" ,"CSS" ,"Api"],
+      category: "React App",
+      github: "https://github.com/Gautammak/Weather-Api",
+      webapp: "https://weather-api-umber.vercel.app/",
+    
+    },
+   
+    
+   
+    
+    {
+      id: 12,
+      title: "Add To Card App",
+      date: "Jun 2023",
+      description:
+        "Elevate shopping with our Add to Cart App. Browse products seamlessly, add to cart with a tap, and enjoy secure checkout. Organize items, track orders, and explore hassle-free shopping with intuitive controls, making your online experience delightful and efficient.",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262915574-869f5a3e-46dd-46c4-989f-51af03e3f076.jpg",
+      tags: ["React Js", "Redux"],
+      category: "React App",
+      github: "https://github.com/Gautammak/Add-to-Cart-Mobile-APP",
+      webapp: "https://add-to-cart-mobile-app-two.vercel.app/",
+    
+    },
+    {
+      id: 13,
+      title: "React Fetch Api",
+      date: "July 2023",
+      description:
+        "Craft dynamic interfaces with React Fetch API App. Fetch data from APIs effortlessly, display in real-time. Utilize state management for seamless updates. Empower your web apps with live, responsive content, blending React's power with real-world data connectivity.",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262914163-b6b386ce-c7cf-48c5-b612-d351c579cb34.jpg",
+      tags: ["React Js", "API", "Axios",],
+      category: " React App",
+      github: "https://github.com/Gautammak/React-Fetch-Api",
+      webapp: "https://react-fetch-api-eight.vercel.app/",
+     
+    },
+    {
+      id: 14,
+      title: "Fetch Api",
+      date: "July 2023",
+      description:
+        "Create dynamic data-driven apps with Node.js Fetch API App. Seamlessly fetch and integrate data from APIs using 'axios' or 'node-fetch' libraries. Empower your application with real-time data updates, enhancing user experiences through responsive content. Elevate your Node.js projects with efficient API connectivity",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262925530-1e137968-e483-41a0-8fec-8e9136c0069c.jpg",
+      tags: ["Node js", "Express Js", "MongoDb"],
+      category: "Node App",
+      github: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
+      webapp: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
+      
     },
     {
       id: 15,
       title: "Bootstrap-Portfolio",
-      date: "Jan 2023",
+      date: "March 2023",
       description:
         " A sleek and responsive portfolio website crafted using Bootstrap framework. Showcase your projects elegantly with organized grids and smooth navigation. This user-friendly design ensures your work takes center stage, offering a polished presentation to captivate visitors. ",
       image:
@@ -661,20 +518,12 @@ export const Bio = {
       category: "-",
       github: "https://github.com/Gautammak/bootstrap-portfolio",
       webapp: "https://github.com/Gautammak/bootstrap-portfolio",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
+    
     },
     {
       id: 16,
       title: "Food-Bill-App",
-      date: "Jan 2023",
+      date: "April 2023",
       description:
         "FoodBill: Your convenient food expense tracker. Easily log and categorize expenses, set budgets, and monitor spending patterns. Stay on top of your food finances effortlessly with insightful graphs and reports. Simplify your budgeting experience with FoodBill and take control of your food expenses today  ",
       image:
@@ -683,15 +532,7 @@ export const Bio = {
       category: "-",
       github: "https://github.com/Gautammak/Food-Bill-App",
       webapp: "https://github.com/Gautammak/Food-Bill-App",
-      member: [
-        // {
-        //   name: "Gautam Makavana",
-        //   img: "https://user-images.githubusercontent.com/97535264/262968901-51609571-d427-4373-9476-cb9b4241e971.jpeg",
-        //   linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-        //   github: "https://github.com/Gautammak",
-        // }
-     
-       ],
+   
     },
     
     

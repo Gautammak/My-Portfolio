@@ -22,21 +22,21 @@ const Projects = ({openModal,setOpenModal}) => {
           }
           <Divider />
           {toggle === 'React App' ?
-            <ToggleButton active value="React App" onClick={() => setToggle('React App')}>React APP'S</ToggleButton>
+            <ToggleButton active value="React App" onClick={() => setToggle('React App')}>React APP's</ToggleButton>
             :
-            <ToggleButton value="React App" onClick={() => setToggle('React App')}>React APP'S</ToggleButton>
+            <ToggleButton value="React App" onClick={() => setToggle('React App')}>React APP's</ToggleButton>
           }
           <Divider />
           {toggle === 'Node App' ?
-            <ToggleButton active value="Node App" onClick={() => setToggle('Node App')}>Node APP'S</ToggleButton>
+            <ToggleButton active value="Node App" onClick={() => setToggle('Node App')}>Node APP's</ToggleButton>
             :
-            <ToggleButton value="Node App" onClick={() => setToggle('Node App')}>Node APP'S</ToggleButton>
+            <ToggleButton value="Node App" onClick={() => setToggle('Node App')}>Node APP's</ToggleButton>
           }
           <Divider />
           {toggle === 'Mern App' ?
-            <ToggleButton active value="Mern App" onClick={() => setToggle('Mern App')}>Mern App</ToggleButton>
+            <ToggleButton active value="Mern App" onClick={() => setToggle('Mern App')}>Mern App's</ToggleButton>
             :
-            <ToggleButton value="Mern App" onClick={() => setToggle('Mern App')}>Mern App</ToggleButton>
+            <ToggleButton value="Mern App" onClick={() => setToggle('Mern App')}>Mern App's</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>
