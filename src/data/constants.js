@@ -370,21 +370,21 @@ export const Bio = {
       webapp: "https://restaurant-food-app-beta.vercel.app/",
      
      },
-   
-    {
+     {
       id: 6,
-      title: "Number Counter App",
-      date: "Jun 2022 - Jul 2022",
+      title: "E-commerce Dashboard",
+      date: "Feb 2023 - March 2023 ",
       description:
-        "The Number Counter React App is a simple yet interactive web application built using the React framework. This app provides users with an intuitive interface to track and increment numbers, making it ideal for various applications such as counting occurrences, keeping score, or just for fun.",
+        "Experience seamless shopping with our MERN E-commerce Web App. Combining MongoDB, Express, React, and Node.js, it offers dynamic product browsing, secure payments, and user profiles. Elevate your online shopping journey with a responsive, feature-rich application that merges technology and retail.   ",
       image:
-        "https://user-images.githubusercontent.com/97535264/262909339-4cc9d493-f6cf-4d8b-bad8-a239b33aa555.jpg",
-      tags: ["React js", "JavaScript" , "CSS"],
-      category: "React App",
-      github: "https://github.com/Gautammak/React-Counter-App",
-      webapp: "https://react-counter-app-eta.vercel.app/",
+        "https://user-images.githubusercontent.com/97535264/262930952-7e17c14e-c9ff-4209-aa9f-f45a75299b27.jpg",
+      tags: [  "React" ,"CSS" ,"Node js", "Express Js", "MongoDb" ,],
+      category: "Mern App",
+      github: "https://github.com/Gautammak/Product-Management-App",
+      webapp: "https://github.com/Gautammak/Product-Management-App",
     
     },
+   
     {
       id: 7,
       title: "Employee Management App",
@@ -415,20 +415,22 @@ export const Bio = {
    
     },
     
+    
     {
       id: 9,
-      title: "E-commerce Dashboard",
-      date: "Feb 2023 - March 2023 ",
+      title: "Number Counter App",
+      date: "Jun 2022 - Jul 2022",
       description:
-        "Experience seamless shopping with our MERN E-commerce Web App. Combining MongoDB, Express, React, and Node.js, it offers dynamic product browsing, secure payments, and user profiles. Elevate your online shopping journey with a responsive, feature-rich application that merges technology and retail.   ",
+        "The Number Counter React App is a simple yet interactive web application built using the React framework. This app provides users with an intuitive interface to track and increment numbers, making it ideal for various applications such as counting occurrences, keeping score, or just for fun.",
       image:
-        "https://user-images.githubusercontent.com/97535264/262930952-7e17c14e-c9ff-4209-aa9f-f45a75299b27.jpg",
-      tags: [  "React" ,"CSS" ,"Node js", "Express Js", "MongoDb" ,],
-      category: "Mern App",
-      github: "https://github.com/Gautammak/Product-Management-App",
-      webapp: "https://github.com/Gautammak/Product-Management-App",
+        "https://user-images.githubusercontent.com/97535264/262909339-4cc9d493-f6cf-4d8b-bad8-a239b33aa555.jpg",
+      tags: ["React js", "JavaScript" , "CSS"],
+      category: "React App",
+      github: "https://github.com/Gautammak/React-Counter-App",
+      webapp: "https://react-counter-app-eta.vercel.app/",
     
     },
+   
 
      {
       id: 10,
@@ -478,34 +480,34 @@ export const Bio = {
       webapp: "https://add-to-cart-mobile-app-two.vercel.app/",
     
     },
-    {
-      id: 13,
-      title: "React Fetch Api",
-      date: "July 2023",
-      description:
-        "Craft dynamic interfaces with React Fetch API App. Fetch data from APIs effortlessly, display in real-time. Utilize state management for seamless updates. Empower your web apps with live, responsive content, blending React's power with real-world data connectivity.",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262914163-b6b386ce-c7cf-48c5-b612-d351c579cb34.jpg",
-      tags: ["React Js", "API", "Axios",],
-      category: " React App",
-      github: "https://github.com/Gautammak/React-Fetch-Api",
-      webapp: "https://react-fetch-api-eight.vercel.app/",
+    // {
+    //   id: 13,
+    //   title: "React Fetch Api",
+    //   date: "July 2023",
+    //   description:
+    //     "Craft dynamic interfaces with React Fetch API App. Fetch data from APIs effortlessly, display in real-time. Utilize state management for seamless updates. Empower your web apps with live, responsive content, blending React's power with real-world data connectivity.",
+    //   image:
+    //     "https://user-images.githubusercontent.com/97535264/262914163-b6b386ce-c7cf-48c5-b612-d351c579cb34.jpg",
+    //   tags: ["React Js", "API", "Axios",],
+    //   category: " React App",
+    //   github: "https://github.com/Gautammak/React-Fetch-Api",
+    //   webapp: "https://react-fetch-api-eight.vercel.app/",
      
-    },
-    {
-      id: 14,
-      title: "Fetch Api",
-      date: "July 2023",
-      description:
-        "Create dynamic data-driven apps with Node.js Fetch API App. Seamlessly fetch and integrate data from APIs using 'axios' or 'node-fetch' libraries. Empower your application with real-time data updates, enhancing user experiences through responsive content. Elevate your Node.js projects with efficient API connectivity",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262925530-1e137968-e483-41a0-8fec-8e9136c0069c.jpg",
-      tags: ["Node js", "Express Js", "MongoDb"],
-      category: "Node App",
-      github: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
-      webapp: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
+    // },
+    // {
+    //   id: 14,
+    //   title: "Fetch Api",
+    //   date: "July 2023",
+    //   description:
+    //     "Create dynamic data-driven apps with Node.js Fetch API App. Seamlessly fetch and integrate data from APIs using 'axios' or 'node-fetch' libraries. Empower your application with real-time data updates, enhancing user experiences through responsive content. Elevate your Node.js projects with efficient API connectivity",
+    //   image:
+    //     "https://user-images.githubusercontent.com/97535264/262925530-1e137968-e483-41a0-8fec-8e9136c0069c.jpg",
+    //   tags: ["Node js", "Express Js", "MongoDb"],
+    //   category: "Node App",
+    //   github: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
+    //   webapp: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
       
-    },
+    // },
     {
       id: 15,
       title: "Bootstrap-Portfolio",
