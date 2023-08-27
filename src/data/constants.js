@@ -1,33 +1,30 @@
-import { AppBar } from "@mui/material";
+
 
 export const Bio = {
     name: "Gautam Makavana",
     roles: [
-      "Full Stack Developer",
-      "MERN Developer",
+     
       "Web Developer",
+      "MERN Developer",
+      "Full Stack Developer",
       "Programmer",
     ],
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Gautammak",
     resume:
-      "https://drive.google.com/file/d/1HjGMO6fTkW6uc6mpYUjDpSKMWuKAaQ1r/view?usp=sharing",
+      "https://drive.google.com/file/d/1NYSfX81T5MpozQi6D_eI3jsTWzn4wv2h/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/gautam-makavana-24a5881b0/",
-    // twitter: "https://twitter.com/RishavChanda",
-    // insta: "https://www.instagram.com/rishav_chanda/",
-    // facebook: "https://www.facebook.com/rishav.chanda.165/",
+    // twitter: "",
+    // insta: "",
+    // facebook: "",
   };
   
   export const skills = [
     {
       title: "Frontend",
       skills: [
-        {
-          name: "React Js",
-          image:
-            "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-        },
+       
         // {
         //   name: "Redux",
         //   image:
@@ -56,6 +53,11 @@ export const Bio = {
           name: "Bootstrap",
           image:
             "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+        },
+        {
+          name: "React Js",
+          image:
+            "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
         },
         {
           name: "Material UI",
@@ -188,12 +190,12 @@ export const Bio = {
       role: "Web Developer Intern",
       company: "Horizon Tech Leads",
       date: "Jun 2022 - July 2022",
-      desc: "As an HTML/CSS/JS & Node.js Intern, I gained  basic and   valuable hands-on experience in web development and server-side programming. During my internship, I worked on various projects, developing and maintaining responsive and visually appealing front-end interfaces using HTML, CSS, and JavaScript.    I  also implemented interactive features to enhance the user experience and collaborated with the team to integrate front-end components with back-end functionalities.  ",
+      desc: " I completed a one-month internship focused on HTML, CSS, and JavaScript. During this experience, I gained practical skills in building responsive web interfaces, styling elements, and implementing interactive features. I worked on various projects, enhancing my proficiency in front-end development and collaborative problem-solving.  ",
       skills: [
        "HTML",
        "CSS",
        "JavaScript",
-       "Node Js",
+       "Bootstrap",
         
       ],
       doc: "",
@@ -201,18 +203,17 @@ export const Bio = {
     {
       id: 0,
       img: "https://media.licdn.com/dms/image/D4D03AQG42nJuQnsPOQ/profile-displayphoto-shrink_800_800/0/1686024606253?e=2147483647&v=beta&t=TN1iISenT_GPPD55IZaJuhcHFF1GTsJpoCwSp5P6dRY",
-      role: "Full Stack Developer",
+      role: "Node Js Intern",
       company: "Horizon Tech Leads",
       date: "Feb 2023 - April 2023",
-      desc: "Working on the Backend of the web application using Node js ,Rest Api, ReactJS, and Material UI.",
+      desc: "Working on the Backend of the web application using Node js,Express Js ,Rest Api and MongoDb.During my internship, I gained practical experience in HTML, CSS, JavaScript, and Node.js. I learned to create web content, style it attractively, and make it interactive using JavaScript. Exploring Node.js, I grasped server-side concepts. Real projects strengthened my skills, preparing me to build functional and appealing websites.",
       skills: [
         "HTML",
         "CSS",
         "JavaScript",
         "BootStrap",
-        "ReactJS",
         "NodeJs",
-        "Material UI",
+        "MongoDb",
       ],
       doc: "",
     },
