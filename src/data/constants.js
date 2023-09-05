@@ -190,12 +190,15 @@ export const Bio = {
       role: "Web Developer Intern",
       company: "Horizon Tech Leads",
       date: "Jun 2022 - July 2022",
-      desc: " I completed a one-month internship focused on HTML, CSS, and JavaScript. During this experience, I gained practical skills in building responsive web interfaces, styling elements, and implementing interactive features. I worked on various projects, enhancing my proficiency in front-end development and collaborative problem-solving.  ",
+      desc: "As an HTML/CSS/JS & Node.js Intern, I gained basic and valuable hands-on experience in web development and server-side programming. During my internship, I worked on various projects, developing and maintaining responsive and visually  appealing front-end interfaces using HTML, CSS, and JavaScript. I also implemented interactive features to enhance the user experience and collaborated with the team to integrate front-end components with back-end functionalities ",
       skills: [
        "HTML",
        "CSS",
        "JavaScript",
        "Bootstrap",
+       "Node Js",
+       "Express Js",
+       "MongoDb"
         
       ],
       doc: "",
