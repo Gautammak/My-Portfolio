@@ -97,7 +97,7 @@ export const Bio = {
           image: "https://www.vectorlogo.zone/logos/mysql/mysql-official.svg",
         },
         {
-          name: "Postgresql",
+          name: "Postgressql",
           image: "https://www.postgresql.org/media/img/about/press/elephant.png",
         },
         {
