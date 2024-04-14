@@ -502,20 +502,20 @@ export const Bio = {
     
    
     
-    {
-      id: 12,
-      title: "Add To Card App",
-      date: "Jun 2023",
-      description:
-        "Elevate shopping with our Add to Cart App. Browse products seamlessly, add to cart with a tap, and enjoy secure checkout. Organize items, track orders, and explore hassle-free shopping with intuitive controls, making your online experience delightful and efficient.",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262915574-869f5a3e-46dd-46c4-989f-51af03e3f076.jpg",
-      tags: ["React Js", "Redux"],
-      category: "React App",
-      github: "https://github.com/Gautammak/Add-to-Cart-Mobile-APP",
-      webapp: "https://add-to-cart-mobile-app-two.vercel.app/",
+    // {
+    //   id: 12,
+    //   title: "Add To Card App",
+    //   date: "Jun 2023",
+    //   description:
+    //     "Elevate shopping with our Add to Cart App. Browse products seamlessly, add to cart with a tap, and enjoy secure checkout. Organize items, track orders, and explore hassle-free shopping with intuitive controls, making your online experience delightful and efficient.",
+    //   image:
+    //     "https://user-images.githubusercontent.com/97535264/262915574-869f5a3e-46dd-46c4-989f-51af03e3f076.jpg",
+    //   tags: ["React Js", "Redux"],
+    //   category: "React App",
+    //   github: "https://github.com/Gautammak/Add-to-Cart-Mobile-APP",
+    //   webapp: "https://add-to-cart-mobile-app-two.vercel.app/",
     
-    },
+    // },
     // {
     //   id: 13,
     //   title: "React Fetch Api",
@@ -544,34 +544,34 @@ export const Bio = {
     //   webapp: "https://github.com/Gautammak/Node-Fetch-Api-Mongodb",
       
     // },
-    {
-      id: 15,
-      title: "Bootstrap-Portfolio",
-      date: "March 2023",
-      description:
-        " A sleek and responsive portfolio website crafted using Bootstrap framework. Showcase your projects elegantly with organized grids and smooth navigation. This user-friendly design ensures your work takes center stage, offering a polished presentation to captivate visitors. ",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262970793-0e37e047-5704-475b-bae6-13c389a129be.jpg",
-      tags: [  "HTML" , "CSS" ,"BootStrap"],
-      category: "-",
-      github: "https://github.com/Gautammak/bootstrap-portfolio",
-      webapp: "https://github.com/Gautammak/bootstrap-portfolio",
+    // {
+    //   id: 15,
+    //   title: "Bootstrap-Portfolio",
+    //   date: "March 2023",
+    //   description:
+    //     " A sleek and responsive portfolio website crafted using Bootstrap framework. Showcase your projects elegantly with organized grids and smooth navigation. This user-friendly design ensures your work takes center stage, offering a polished presentation to captivate visitors. ",
+    //   image:
+    //     "https://user-images.githubusercontent.com/97535264/262970793-0e37e047-5704-475b-bae6-13c389a129be.jpg",
+    //   tags: [  "HTML" , "CSS" ,"BootStrap"],
+    //   category: "-",
+    //   github: "https://github.com/Gautammak/bootstrap-portfolio",
+    //   webapp: "https://github.com/Gautammak/bootstrap-portfolio",
     
-    },
-    {
-      id: 16,
-      title: "Food-Bill-App",
-      date: "April 2023",
-      description:
-        "FoodBill: Your convenient food expense tracker. Easily log and categorize expenses, set budgets, and monitor spending patterns. Stay on top of your food finances effortlessly with insightful graphs and reports. Simplify your budgeting experience with FoodBill and take control of your food expenses today  ",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262981767-33ceefe8-298d-4c4b-a6fb-32c7e8a26f39.jpg",
-      tags: [  "HTML" , "CSS" ,"Javascript"],
-      category: "-",
-      github: "https://github.com/Gautammak/Food-Bill-App",
-      webapp: "https://github.com/Gautammak/Food-Bill-App",
+    // },
+    // {
+    //   id: 16,
+    //   title: "Food-Bill-App",
+    //   date: "April 2023",
+    //   description:
+    //     "FoodBill: Your convenient food expense tracker. Easily log and categorize expenses, set budgets, and monitor spending patterns. Stay on top of your food finances effortlessly with insightful graphs and reports. Simplify your budgeting experience with FoodBill and take control of your food expenses today  ",
+    //   image:
+    //     "https://user-images.githubusercontent.com/97535264/262981767-33ceefe8-298d-4c4b-a6fb-32c7e8a26f39.jpg",
+    //   tags: [  "HTML" , "CSS" ,"Javascript"],
+    //   category: "-",
+    //   github: "https://github.com/Gautammak/Food-Bill-App",
+    //   webapp: "https://github.com/Gautammak/Food-Bill-App",
    
-    },
+    // },
     
     
   ];
