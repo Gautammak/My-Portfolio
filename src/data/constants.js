@@ -49,11 +49,11 @@ export const Bio = {
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
         },
-        {
-          name: "Bootstrap",
-          image:
-            "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-        },
+        // {
+        //   name: "Bootstrap",
+        //   image:
+        //     "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+        // },
         // {
         //   name: "React Js",
         //   image:
@@ -87,6 +87,11 @@ export const Bio = {
           name: "GraphQL",
           image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
         },
+           {
+          name: "Sequelize",
+          image:
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fsequelize&psig=AOvVaw33p3LR0Y07URgWqFzyAYoV&ust=1713191622724000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDR5qL2wYUDFQAAAAAdAAAAABAE",
+        },
         // {
         //   name: "Python",
         //   image:
@@ -105,6 +110,7 @@ export const Bio = {
           image:
             "https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg",
         },
+          
         // {
         //   name: "Firebase",
         //   image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
