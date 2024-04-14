@@ -343,22 +343,9 @@ export const Bio = {
       webapp: "https://chat-app-gautammak.onrender.com/",
      
     },
+   
     {
       id: 2,
-      title: "Number Counter App",
-      date: "Jun 2022 - Jul 2022",
-      description:
-        "The Number Counter React App is a simple yet interactive web application built using the React framework. This app provides users with an intuitive interface to track and increment numbers, making it ideal for various applications such as counting occurrences, keeping score, or just for fun.",
-      image:
-        "https://user-images.githubusercontent.com/97535264/262909339-4cc9d493-f6cf-4d8b-bad8-a239b33aa555.jpg",
-      tags: ["React js", "JavaScript" , "CSS"],
-      category: "React App",
-      github: "https://github.com/Gautammak/React-Counter-App",
-      webapp: "https://react-counter-app-eta.vercel.app/",
-    
-    },
-    {
-      id: 3,
       title: "Temperature With Weather-App",
       date: "Jun 2022 - July 2022",
       description:
@@ -373,9 +360,21 @@ export const Bio = {
       ],
       category: "React App",
       github: "https://github.com/Gautammak/Temperature-With-Weather-App",
-      webapp: "https://temperature-with-weather-app.vercel.app/",
+      webapp: "https://temperature-with-weather-app.vercel.app/", 
+    },
+       {
+      id: 3,
+      title: "Number Counter App",
+      date: "Jun 2022 - Jul 2022",
+      description:
+        "The Number Counter React App is a simple yet interactive web application built using the React framework. This app provides users with an intuitive interface to track and increment numbers, making it ideal for various applications such as counting occurrences, keeping score, or just for fun.",
+      image:
+        "https://user-images.githubusercontent.com/97535264/262909339-4cc9d493-f6cf-4d8b-bad8-a239b33aa555.jpg",
+      tags: ["React js", "JavaScript" , "CSS"],
+      category: "React App",
+      github: "https://github.com/Gautammak/React-Counter-App",
+      webapp: "https://react-counter-app-eta.vercel.app/",
     
-     
     },
 
     {
