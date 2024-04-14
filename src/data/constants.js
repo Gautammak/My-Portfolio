@@ -3,10 +3,10 @@
 export const Bio = {
     name: "Gautam Makavana",
     roles: [
-     
+      "Backend Developer"
       "Web Developer",
-      "MERN Developer",
-      "Full Stack Developer",
+     // "MERN Developer",
+     // "Full Stack Developer",
       "Programmer",
     ],
     description:
