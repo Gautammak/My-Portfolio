@@ -345,16 +345,16 @@ export const Bio = {
     },
     {
       id: 2,
-      title: "Login System App",
-      date: "Jun 2022 - July 2022",
+      title: "Number Counter App",
+      date: "Jun 2022 - Jul 2022",
       description:
-        "Secure user interactions with our Login System. Implement robust authentication, ensuring data privacy. Streamline user access, registration, and password recovery. Elevate user trust through encrypted sessions, delivering a seamless and secure experience across your application",
+        "The Number Counter React App is a simple yet interactive web application built using the React framework. This app provides users with an intuitive interface to track and increment numbers, making it ideal for various applications such as counting occurrences, keeping score, or just for fun.",
       image:
-        "https://user-images.githubusercontent.com/97535264/262927656-c9017564-1035-4d6b-8995-7bbcdd52d253.jpg",
-      tags: [  "HTML", "CSS" ,"Node js", "Express Js",],
-      category: "Node App",
-      github: "https://github.com/Gautammak/login-system",
-      webapp: "https://login-system-j0gt.onrender.com/",
+        "https://user-images.githubusercontent.com/97535264/262909339-4cc9d493-f6cf-4d8b-bad8-a239b33aa555.jpg",
+      tags: ["React js", "JavaScript" , "CSS"],
+      category: "React App",
+      github: "https://github.com/Gautammak/React-Counter-App",
+      webapp: "https://react-counter-app-eta.vercel.app/",
     
     },
     {
@@ -454,16 +454,16 @@ export const Bio = {
     
     {
       id: 9,
-      title: "Number Counter App",
-      date: "Jun 2022 - Jul 2022",
+         title: "Login System App",
+      date: "Jun 2022 - July 2022",
       description:
-        "The Number Counter React App is a simple yet interactive web application built using the React framework. This app provides users with an intuitive interface to track and increment numbers, making it ideal for various applications such as counting occurrences, keeping score, or just for fun.",
+        "Secure user interactions with our Login System. Implement robust authentication, ensuring data privacy. Streamline user access, registration, and password recovery. Elevate user trust through encrypted sessions, delivering a seamless and secure experience across your application",
       image:
-        "https://user-images.githubusercontent.com/97535264/262909339-4cc9d493-f6cf-4d8b-bad8-a239b33aa555.jpg",
-      tags: ["React js", "JavaScript" , "CSS"],
-      category: "React App",
-      github: "https://github.com/Gautammak/React-Counter-App",
-      webapp: "https://react-counter-app-eta.vercel.app/",
+        "https://user-images.githubusercontent.com/97535264/262927656-c9017564-1035-4d6b-8995-7bbcdd52d253.jpg",
+      tags: [  "HTML", "CSS" ,"Node js", "Express Js",],
+      category: "Node App",
+      github: "https://github.com/Gautammak/login-system",
+      webapp: "https://login-system-j0gt.onrender.com/",
     
     },
    
